@@ -46,7 +46,7 @@
         <ol>
             <li>To activate or switch into your virtual environment, simply type the following where <em>yourenvname</em> is the name you gave to your environement at creation.</li>
         </ol>
-        <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nb">source </span>activate webcrawlerenv</code></pre></div>
+        <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nb">conda </span>activate webcrawlerenv</code></pre></div>
         <ol>
             <li>Activating a conda environment modifies the PATH and shell variables to point to the specific isolated Python set-up you created. The command prompt will change to indicate which conda environemnt you are currently in by prepending <code>(yourenvname)</code>. To see a list of all your environments, use the command <code>conda info -e</code>.</li>
         </ol>
