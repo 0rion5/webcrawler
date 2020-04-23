@@ -24,8 +24,8 @@
             <li>Enter <code>conda -V</code> into the terminal command line and press enter.</li>
             <li>If conda is installed you should see somehting like the following.</li>
         </ol>
-        <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>conda -V
-            conda 3.7.0</code></pre></div>
+        <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>conda -V 
+conda 3.7.0</code></pre></div>
         <h2 id="check-conda-is-up-to-date">2. Check conda is up to date</h2>
         <ol>
             <li>In the terminal client enter</li>
