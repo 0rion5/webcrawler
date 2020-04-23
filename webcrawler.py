@@ -59,4 +59,3 @@ class Bot:
 if __name__ == '__main__':
     url = 'https://google.com/'
     bot = Bot()
-# %%
