@@ -64,7 +64,7 @@ conda 3.7.0</code></pre></div>
         <ol>
             <li>To delete a conda environment, enter the following, where <em>webcrawlerenv</em> is the name of the environment you wish to delete.</li>
         </ol>
-        <div class="highlight"><pre><code class="language-bash" data-lang="bash">conda remove -n webcrawlerenv --all</code></pre></div>
+        <div class="highlight"><pre><code class="language-bash" data-lang="bash">conda remove --name webcrawlerenv --all</code></pre></div>
         <h2 id="related-info">Related info</h2>
         <p>The conda offical documentation can be found <a href="http://conda.pydata.org/docs/intro.html">here</a>.</p>
         <h2 id="check-conda-is-installed-and-in-your-path">8. Install Chromedriver</h2>
@@ -73,9 +73,6 @@ conda 3.7.0</code></pre></div>
             <li>Download the same version as your chrome browser.</li>
             <li>Install the executable to PATH.</li>
         </ol>
-    <h2 id="section3">Usage</h2>
-    <p>
-    </p>
 </body>
 
 </html>
