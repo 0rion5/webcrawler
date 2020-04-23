@@ -38,7 +38,7 @@
         <ol>
             <li>In the terminal client enter the following where <em>yourenvname</em> is the name you want to call your environment, and replace <em>x.x</em> with the Python version you wish to use. (To see a list of available python versions first, type <code>conda search "^python$"</code> and press enter.) </li>
         </ol>
-        <div class="highlight"><pre><code class="language-bash" data-lang="bash">conda create -n webcrawlerenv <span class="nv">python</span><span class="o">=</span>x.x anaconda</code></pre></div>
+        <div class="highlight"><pre><code class="language-bash" data-lang="bash">conda create -n webcrawlerenv</code></pre></div>
         <ol>
             <li>Press <code>y</code> to proceed. This will install the Python version and all the associated anaconda packaged libraries at “path_to_your_anaconda_location/anaconda/envs/yourenvname”</li>
         </ol>
