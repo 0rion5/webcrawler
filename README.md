@@ -6,12 +6,6 @@
 </head>
 
 <body>
-    <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="#section1">Setup</a></li>
-        <li><a href="#section2">Installation</a></li>
-        <li><a href="#section3">Usage</a></li>
-    </ul>
     <h2 id="section1">Setup</h2>
     <p>
         <h2 id="requirements">Requirements</h2>
